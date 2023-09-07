@@ -2,7 +2,7 @@
   "name": "umbra-theme",
   "displayName": "Umbra Theme",
   "description": "This is a famost vscode theme?",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "rinckodev",
   "engines": {
     "vscode": "^1.81.0"
@@ -12,7 +12,7 @@
     "Themes"
   ],
   "repository": {
-    "url": "https://github.com/rinckonobre/umbra-theme"
+    "url": "https://github.com/rinckodev/umbra-theme"
   },
   "contributes": {
     "themes": [
