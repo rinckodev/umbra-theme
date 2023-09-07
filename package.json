@@ -1,0 +1,25 @@
+{
+  "name": "umbra-theme",
+  "displayName": "Umbra Theme",
+  "description": "This is a famost vscode theme?",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "url": "https://github.com/rinckonobre/umbra-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Umbra",
+        "uiTheme": "vs-dark",
+        "path": "./themes/umbra-color-theme.json"
+      }
+    ]
+  }
+}
