@@ -2,7 +2,7 @@
   "name": "umbra-theme",
   "displayName": "Umbra Theme",
   "description": "This is a famost vscode theme?",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "rinckodev",
   "engines": {
     "vscode": "^1.81.0"
